@@ -57,7 +57,7 @@
 #data
 {
   
-  width: 40%;}
+  width: 50%;}
   #data tr:nth-child(even){background-color:white;}
 
 #data tr:hover {background-color:lightcyan}
